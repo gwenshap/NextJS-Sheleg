@@ -6,7 +6,7 @@ import '../styles/globals.css'
 
 const BASE_PATH = 'https://prod.thenile.dev';
 // a workspace can be gotten by signing in to https://nad.thenile.dev/ and creating one
-const WORKSPACE = "<Enter workspace here>"; 
+const WORKSPACE = "clustify-gs"; 
 
 function MyApp({ Component, pageProps }: AppProps) {
   return (
